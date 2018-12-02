@@ -31,6 +31,7 @@ This is a web-based system for outing with parents. This system is specifically 
 
 # System Development Environment :
 1.	XAMPP
+
 i.	Download XAMPP from Apachefriends based on your operating system and computer specification.
 
 ii.	Install into your computer.
@@ -38,6 +39,7 @@ ii.	Install into your computer.
 iii.	Create database name and table in your database.
 
 2.	Notepad
+
 i.	DownloadNotepad++ from the website
 
 ii.	Install in your computer, choose default option to install.
