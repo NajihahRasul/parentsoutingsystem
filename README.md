@@ -9,17 +9,19 @@ Platform Use:	Notepad++
 
 # Screenshots :
  
+![1](https://user-images.githubusercontent.com/39667828/49335922-7f56e900-f632-11e8-8af1-1c62a5e2b216.png) 
 Figure 1 : Mainpage of Parents Outing System
  
+ ![2](https://user-images.githubusercontent.com/39667828/49335937-d0ff7380-f632-11e8-93fc-632480d44a65.png)
 Figure 2 : Login Page of Staff in Parents Outing System
 
- 
+ ![3](https://user-images.githubusercontent.com/39667828/49335941-ef656f00-f632-11e8-945a-01e7ad644338.png)
 Figure 3 : View Information in Parents Outing System
 
- 
+ ![4](https://user-images.githubusercontent.com/39667828/49335942-fe4c2180-f632-11e8-8094-8a17481a1cfa.png)
 Figure 4 : Outing Application in Parents Outing System
 
- 
+ ![5](https://user-images.githubusercontent.com/39667828/49335944-0dcb6a80-f633-11e8-9d2d-762677c79d32.png)
 Figure 5 : Check Student Status and Record Students’ Outing Time Taken
 
 # About the system :
