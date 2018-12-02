@@ -1,12 +1,11 @@
 
-#Parents Outing System
+#Parents Outing System#
 
 Project Details :
 Project Title :	Parents Outing System
 About Project :	A web-based system for boarding school for students who wants to go outing with their parents  
 Language Use :	PHP, Javascript-Ajax
 Platform Use:	Notepad++
-Github Link :	https://github.com/NajihahRasul/parentsouting
 
 #Screenshots :
  
